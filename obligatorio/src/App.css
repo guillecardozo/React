@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+#imgLogo{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+#cardLogin{
+  opacity: .8;
+}
+
+
+#dash{
+  padding: 50px;
+}
+
+#card1{
+  margin: 15px;
+  background-color:rgb(187, 175, 175)
+}
+
+#montos{
+  color: red;
+}
+
+#sugerencia{
+  color:Red
+}
+
+
+
+
+
+
+
+
